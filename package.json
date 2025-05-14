@@ -1,0 +1,15 @@
+{
+  "name": "Portfolio-CypressWebTestingOpenCart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run",
+    "report:open": "start cypress/reports/html/index.html"
+  },
+  "private": true,
+  "devDependencies": {
+    "cypress": "^14.3.3",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
