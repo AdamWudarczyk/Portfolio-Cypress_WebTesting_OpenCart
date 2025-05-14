@@ -16,6 +16,15 @@ cypress/\
 ├── support/\
 │ └── e2e.js # Plugin imports\
 
+## Prerequisites
+
+- Node.js (v18+ recommended)
+- npm (comes with Node.js)
+- Git (for cloning this repository)
+
+You can check your versions by running:
+>node -v\
+>npm -v
 
 ## Running the Tests
 
